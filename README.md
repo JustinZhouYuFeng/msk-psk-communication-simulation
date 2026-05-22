@@ -11,23 +11,23 @@ The project covers:
 
 ```text
 .
-├── 2psk/
-│   ├── run_all.m
-│   ├── topic2_2psk_full_code.m
-│   ├── src/
-│   └── docs/
-├── msk/
-│   ├── MSK_Live_AllInOne_Source.m
-│   ├── MSK_AllInOne.m
-│   └── draw_*.py / draw_*.m
-├── combined_src/
-│   ├── simulate_2psk.m
-│   ├── simulate_msk.m
-│   └── simulate_extras.m
-├── docs/
-│   └── processing_chain.md
-├── tools/
-└── run_all_combined.m
+|-- 2psk/
+|   |-- run_all.m
+|   |-- topic2_2psk_full_code.m
+|   |-- src/
+|   `-- docs/
+|-- msk/
+|   |-- MSK_Live_AllInOne_Source.m
+|   |-- MSK_AllInOne.m
+|   `-- draw_*.py / draw_*.m
+|-- combined_src/
+|   |-- simulate_2psk.m
+|   |-- simulate_msk.m
+|   `-- simulate_extras.m
+|-- docs/
+|   `-- processing_chain.md
+|-- tools/
+`-- run_all_combined.m
 ```
 
 ## Run
